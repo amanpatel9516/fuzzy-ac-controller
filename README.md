@@ -6,6 +6,7 @@ html,css,javascript for the ui part.
 applied DAA algorithm for the graphs .
 the working is based on rthe real environment 
 today we created one more functionality to our project which makes a big sense in it
+today we implemented more rteck stack and optimized the code for more fater .
 
 
 
