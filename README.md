@@ -18,6 +18,9 @@ We also introduced more tech stack elements and optimized the code for faster pe
 
 📈 Progress
 
-The project is improving day by day as we refine logic, UI, and performance.
+The project is improving day by day as we refine logic, UI, and performance
+t is improving day by day as we refine logic, UI, and performance.
+t is improving day by day as we refine logic, UI, and performance.
+
 
 
