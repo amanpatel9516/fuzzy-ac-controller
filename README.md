@@ -8,6 +8,7 @@ We have explained how the controller works and how it reacts to real-world envir
 Frontend: HTML, CSS, JavaScript, also further we are going to add ml functionalities to it .
 
 Algorithms: DAA-based logic for generating graphs
+DAA is one of them ,but i am going to implement more Algos like DSA etc.
 
 Environment-Based Working: Controller decisions adapt to real sensor-like inputs
 
@@ -21,6 +22,7 @@ We also introduced more tech stack elements and optimized the code for faster pe
 The project is improving day by day as we refine logic, UI, and performance
 t is improving day by day as we refine logic, UI, and performance.
 t is improving day by day as we refine logic, UI, and performance.
+
 
 
 
